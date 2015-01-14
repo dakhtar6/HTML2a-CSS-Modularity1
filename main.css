@@ -5,15 +5,23 @@
 .bordered .last_row {
 	border-bottom: 0px; 
 }
-.bbfont .bbfont{
+.bbfont {
 	font-size: 35px;
 	font-weight: bold;
 }
 .tinygreyfont {
 	font-size: 12px;
-	color: gray;
+	color: silver;
 }
 .topbottomborder {
-	border-top: 1px gray solid;
-	border-bottom: 1px gray solid;
+	border-top: 1px silver solid;
+	border-bottom: 1px silver solid;
+}
+.number_padding {
+	padding: 20px 20px 0px 20px;
+	text-align: center;
+}
+.letter_padding {
+	padding: 0px 20px 20px 20px;
+	text-align: center;
 }
