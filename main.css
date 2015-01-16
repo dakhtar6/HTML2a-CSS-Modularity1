@@ -28,9 +28,15 @@
 .bar_background div{
 	background-color: #33ADD6;
 	border-radius: 0px 5px 5px 0px; 
+	
 }
 .bar_background td{
 	width: 85%;
+	color:white;
+}
+.bar_background th{
+	text-align: right;
+	padding: 0px 10px 0px 0px;
 }
 /*Blotted out lightbox background effect*/
 /*.lightbox_background {
